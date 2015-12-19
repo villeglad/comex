@@ -9,7 +9,6 @@ class Company extends Model
     protected $fillable = [
         'business_id',
         'company_form',
-        'details_uri',
         'name',
         'registration_date'
     ];
@@ -28,4 +27,5 @@ class Company extends Model
     {
         $this->belongsToMany('App\BusinessLine');
     }
+
 }

@@ -1,0 +1,998 @@
+{
+  "exceptionNoticeUri": null, 
+  "nextResultsUri": null, 
+  "previousResultsUri": null, 
+  "results": [
+    {
+      "businessId": "2730893-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2730893-7", 
+      "name": "F-Doors Oy", 
+      "registrationDate": "2015-12-10"
+    }, 
+    {
+      "businessId": "2729961-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2729961-2", 
+      "name": "Oy Marecom Ab", 
+      "registrationDate": "2015-12-07"
+    }, 
+    {
+      "businessId": "2729047-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2729047-4", 
+      "name": "Kaarinan Autohuolto Oy", 
+      "registrationDate": "2015-12-03"
+    }, 
+    {
+      "businessId": "2728446-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2728446-1", 
+      "name": "Ilmatalo Oy", 
+      "registrationDate": "2015-12-01"
+    }, 
+    {
+      "businessId": "2728454-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2728454-1", 
+      "name": "Turkuas Oy", 
+      "registrationDate": "2015-12-01"
+    }, 
+    {
+      "businessId": "2727552-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2727552-2", 
+      "name": "Makarlan Kuivuri Oy", 
+      "registrationDate": "2015-11-27"
+    }, 
+    {
+      "businessId": "2727859-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2727859-8", 
+      "name": "Lagerspetz Capital Oy", 
+      "registrationDate": "2015-11-27"
+    }, 
+    {
+      "businessId": "2726523-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2726523-6", 
+      "name": "Iisi Capital Oy", 
+      "registrationDate": "2015-11-24"
+    }, 
+    {
+      "businessId": "2726697-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2726697-6", 
+      "name": "Amplifi Oy", 
+      "registrationDate": "2015-11-24"
+    }, 
+    {
+      "businessId": "2726152-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2726152-6", 
+      "name": "Hihku Oy", 
+      "registrationDate": "2015-11-20"
+    }, 
+    {
+      "businessId": "2724902-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2724902-5", 
+      "name": "RBM-RAKENNUS Oy", 
+      "registrationDate": "2015-11-13"
+    }, 
+    {
+      "businessId": "2724573-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2724573-7", 
+      "name": "MarineTeam Oy", 
+      "registrationDate": "2015-11-12"
+    }, 
+    {
+      "businessId": "2724107-4", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2724107-4", 
+      "name": "Asunto Oy Kaarinan Strand", 
+      "registrationDate": "2015-11-11"
+    }, 
+    {
+      "businessId": "2720432-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2720432-9", 
+      "name": "Boston Distribution Oy", 
+      "registrationDate": "2015-10-26"
+    }, 
+    {
+      "businessId": "2717911-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2717911-9", 
+      "name": "Datapultti Oy", 
+      "registrationDate": "2015-10-14"
+    }, 
+    {
+      "businessId": "2717811-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2717811-6", 
+      "name": "Terra L\u00e4mp\u00f6 Oy", 
+      "registrationDate": "2015-10-14"
+    }, 
+    {
+      "businessId": "2717083-5", 
+      "companyForm": "OK", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2717083-5", 
+      "name": "Osuuskunta bitWeird", 
+      "registrationDate": "2015-10-12"
+    }, 
+    {
+      "businessId": "2716658-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2716658-8", 
+      "name": "DocM Oy", 
+      "registrationDate": "2015-10-08"
+    }, 
+    {
+      "businessId": "2715530-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2715530-1", 
+      "name": "LVI-Union Oy", 
+      "registrationDate": "2015-10-02"
+    }, 
+    {
+      "businessId": "2715532-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2715532-8", 
+      "name": "NBD Consulting Oy", 
+      "registrationDate": "2015-10-02"
+    }, 
+    {
+      "businessId": "2715154-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2715154-6", 
+      "name": "Thiel Management and BioConsulting Oy", 
+      "registrationDate": "2015-10-01"
+    }, 
+    {
+      "businessId": "2713032-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2713032-3", 
+      "name": "MILA Consulting Oy", 
+      "registrationDate": "2015-09-22"
+    }, 
+    {
+      "businessId": "2712011-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2712011-7", 
+      "name": "SCOP Oy", 
+      "registrationDate": "2015-09-17"
+    }, 
+    {
+      "businessId": "2711745-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2711745-2", 
+      "name": "Softasampo Oy", 
+      "registrationDate": "2015-09-16"
+    }, 
+    {
+      "businessId": "2711657-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2711657-2", 
+      "name": "Y.A.R. Generation Oy", 
+      "registrationDate": "2015-09-16"
+    }, 
+    {
+      "businessId": "2711453-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2711453-4", 
+      "name": "Bofa Invest OY", 
+      "registrationDate": "2015-09-15"
+    }, 
+    {
+      "businessId": "2710112-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2710112-7", 
+      "name": "Eristysliike L\u00e4hde Oy", 
+      "registrationDate": "2015-09-09"
+    }, 
+    {
+      "businessId": "2709825-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2709825-5", 
+      "name": "Alville Oy", 
+      "registrationDate": "2015-09-08"
+    }, 
+    {
+      "businessId": "2708535-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2708535-8", 
+      "name": "Kaarinan Health for You Oy", 
+      "registrationDate": "2015-09-02"
+    }, 
+    {
+      "businessId": "2705723-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2705723-4", 
+      "name": "Solbakke Oy", 
+      "registrationDate": "2015-08-21"
+    }, 
+    {
+      "businessId": "2705898-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2705898-2", 
+      "name": "Saneeraus ja Maalaus Rajalainen Oy", 
+      "registrationDate": "2015-08-21"
+    }, 
+    {
+      "businessId": "2705774-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2705774-4", 
+      "name": "KM-Rengas Kaarina Oy", 
+      "registrationDate": "2015-08-20"
+    }, 
+    {
+      "businessId": "2705778-7", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2705778-7", 
+      "name": "As Oy Kaarinan Castellum", 
+      "registrationDate": "2015-08-20"
+    }, 
+    {
+      "businessId": "2705155-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2705155-3", 
+      "name": "Relaxion Oy", 
+      "registrationDate": "2015-08-18"
+    }, 
+    {
+      "businessId": "2704965-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2704965-6", 
+      "name": "Ilona Invest Oy", 
+      "registrationDate": "2015-08-17"
+    }, 
+    {
+      "businessId": "2703595-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2703595-9", 
+      "name": "Kiinteist\u00f6 Oy Kaarinan Koriston Ranta", 
+      "registrationDate": "2015-08-07"
+    }, 
+    {
+      "businessId": "2701570-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2701570-4", 
+      "name": "Ekkono Finland Oy", 
+      "registrationDate": "2015-07-22"
+    }, 
+    {
+      "businessId": "2701309-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2701309-8", 
+      "name": "Taksi Sundqvist Oy", 
+      "registrationDate": "2015-07-20"
+    }, 
+    {
+      "businessId": "2701286-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2701286-1", 
+      "name": "MKM Kiinteist\u00f6t Oy", 
+      "registrationDate": "2015-07-20"
+    }, 
+    {
+      "businessId": "2700224-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2700224-1", 
+      "name": "Murri Invest Oy", 
+      "registrationDate": "2015-07-10"
+    }, 
+    {
+      "businessId": "2700052-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2700052-9", 
+      "name": "Kristian Salonen Oy", 
+      "registrationDate": "2015-07-09"
+    }, 
+    {
+      "businessId": "2698862-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2698862-7", 
+      "name": "PtoP Oy", 
+      "registrationDate": "2015-07-01"
+    }, 
+    {
+      "businessId": "2699015-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2699015-3", 
+      "name": "Curry King Oy", 
+      "registrationDate": "2015-06-30"
+    }, 
+    {
+      "businessId": "2698152-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2698152-1", 
+      "name": "Calle Dulcinea A 26 Oy", 
+      "registrationDate": "2015-06-25"
+    }, 
+    {
+      "businessId": "2696293-7", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2696293-7", 
+      "name": "Asunto Oy Kaarinan K\u00e4rjen rantatie 7", 
+      "registrationDate": "2015-06-12"
+    }, 
+    {
+      "businessId": "2695030-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2695030-3", 
+      "name": "Tsenext Oy", 
+      "registrationDate": "2015-06-06"
+    }, 
+    {
+      "businessId": "2693951-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2693951-8", 
+      "name": "Taksipalvelu Py\u00f6k\u00e4ri Oy", 
+      "registrationDate": "2015-06-01"
+    }, 
+    {
+      "businessId": "2692926-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2692926-4", 
+      "name": "Rengastien Loisto Kiinteist\u00f6 Oy", 
+      "registrationDate": "2015-05-26"
+    }, 
+    {
+      "businessId": "2692750-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2692750-9", 
+      "name": "Safewithme Oy", 
+      "registrationDate": "2015-05-26"
+    }, 
+    {
+      "businessId": "2692025-1", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2692025-1", 
+      "name": "As Oy Kaarinan Voivalanranta IV", 
+      "registrationDate": "2015-05-21"
+    }, 
+    {
+      "businessId": "2692031-5", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2692031-5", 
+      "name": "As Oy Kaarinan Voivalanranta III", 
+      "registrationDate": "2015-05-21"
+    }, 
+    {
+      "businessId": "2691755-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2691755-4", 
+      "name": "Ljusstr\u00f6m Kapital Oy", 
+      "registrationDate": "2015-05-19"
+    }, 
+    {
+      "businessId": "2690347-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2690347-8", 
+      "name": "Paritek Oy", 
+      "registrationDate": "2015-05-11"
+    }, 
+    {
+      "businessId": "2688025-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2688025-3", 
+      "name": "Oy Testant Ab", 
+      "registrationDate": "2015-04-24"
+    }, 
+    {
+      "businessId": "2688417-4", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2688417-4", 
+      "name": "Asunto Oy Kaarinan Metsolankatu 1", 
+      "registrationDate": "2015-04-24"
+    }, 
+    {
+      "businessId": "2686615-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2686615-2", 
+      "name": "Afterworks Oy", 
+      "registrationDate": "2015-04-16"
+    }, 
+    {
+      "businessId": "2686260-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2686260-2", 
+      "name": "Mielikin tukku oy", 
+      "registrationDate": "2015-04-15"
+    }, 
+    {
+      "businessId": "2684075-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2684075-3", 
+      "name": "HUUB Wear Oy", 
+      "registrationDate": "2015-03-30"
+    }, 
+    {
+      "businessId": "2682245-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2682245-9", 
+      "name": "Rakennus Sirvi\u00f6 Oy", 
+      "registrationDate": "2015-03-18"
+    }, 
+    {
+      "businessId": "2682018-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2682018-9", 
+      "name": "Oy Safira Invest Ab", 
+      "registrationDate": "2015-03-17"
+    }, 
+    {
+      "businessId": "2681535-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2681535-5", 
+      "name": "Loimu Design Oy", 
+      "registrationDate": "2015-03-13"
+    }, 
+    {
+      "businessId": "2680857-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2680857-7", 
+      "name": "JKS Trade Oy", 
+      "registrationDate": "2015-03-10"
+    }, 
+    {
+      "businessId": "2680347-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2680347-7", 
+      "name": "Kuljetusliike Jorma Sirvi\u00f6 Oy", 
+      "registrationDate": "2015-03-06"
+    }, 
+    {
+      "businessId": "2679265-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2679265-9", 
+      "name": "Suomen Matkailuimago Oy", 
+      "registrationDate": "2015-03-02"
+    }, 
+    {
+      "businessId": "2678485-1", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2678485-1", 
+      "name": "Asunto Oy Piikki\u00f6n Pappilanleinikki, Kaarina", 
+      "registrationDate": "2015-02-26"
+    }, 
+    {
+      "businessId": "2678730-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2678730-7", 
+      "name": "Spoonful Oy", 
+      "registrationDate": "2015-02-26"
+    }, 
+    {
+      "businessId": "2678484-3", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2678484-3", 
+      "name": "Asunto Oy Piikki\u00f6n Pappilanlehdokki, Kaarina", 
+      "registrationDate": "2015-02-26"
+    }, 
+    {
+      "businessId": "2677755-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2677755-5", 
+      "name": "Tsamma Oy", 
+      "registrationDate": "2015-02-23"
+    }, 
+    {
+      "businessId": "2676748-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2676748-8", 
+      "name": "Kaarinan Vaihtoauto Oy", 
+      "registrationDate": "2015-02-18"
+    }, 
+    {
+      "businessId": "2676408-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2676408-4", 
+      "name": "DVC Inter Oy", 
+      "registrationDate": "2015-02-17"
+    }, 
+    {
+      "businessId": "2675719-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2675719-1", 
+      "name": "Pesula Sani Oy", 
+      "registrationDate": "2015-02-13"
+    }, 
+    {
+      "businessId": "2674791-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2674791-1", 
+      "name": "Carehouse Oy", 
+      "registrationDate": "2015-02-10"
+    }, 
+    {
+      "businessId": "2673539-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2673539-8", 
+      "name": "Omiani Oy", 
+      "registrationDate": "2015-02-05"
+    }, 
+    {
+      "businessId": "2673154-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2673154-9", 
+      "name": "Mktek Oy", 
+      "registrationDate": "2015-02-04"
+    }, 
+    {
+      "businessId": "2671888-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2671888-9", 
+      "name": "Kaappo-Kiinteist\u00f6t Oy", 
+      "registrationDate": "2015-01-30"
+    }, 
+    {
+      "businessId": "2670203-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2670203-5", 
+      "name": "Luonnonmaan Kalakauppa Oy", 
+      "registrationDate": "2015-01-26"
+    }, 
+    {
+      "businessId": "2665694-8", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2665694-8", 
+      "name": "Asunto Oy Kaarinan Panimonportti", 
+      "registrationDate": "2015-01-12"
+    }, 
+    {
+      "businessId": "2665690-5", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2665690-5", 
+      "name": "Asunto Oy Kaarinan Panimonrinne", 
+      "registrationDate": "2015-01-12"
+    }, 
+    {
+      "businessId": "2664390-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2664390-1", 
+      "name": "TOP SECURITY FINLAND OY", 
+      "registrationDate": "2015-01-08"
+    }, 
+    {
+      "businessId": "2661918-6", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2661918-6", 
+      "name": "As Oy Kaarinan Meril\u00e4", 
+      "registrationDate": "2014-12-19"
+    }, 
+    {
+      "businessId": "2660209-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2660209-3", 
+      "name": "Piikki\u00f6n Taksi Oy", 
+      "registrationDate": "2014-12-12"
+    }, 
+    {
+      "businessId": "2659785-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2659785-3", 
+      "name": "MyJemma Oy Ltd", 
+      "registrationDate": "2014-12-11"
+    }, 
+    {
+      "businessId": "2659864-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2659864-5", 
+      "name": "Littoisten Autohuolto OY", 
+      "registrationDate": "2014-12-11"
+    }, 
+    {
+      "businessId": "2659536-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2659536-4", 
+      "name": "TIMPERIN KIINTEIST\u00d6 OY", 
+      "registrationDate": "2014-12-10"
+    }, 
+    {
+      "businessId": "2659358-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2659358-8", 
+      "name": "Sarakaisa Oy", 
+      "registrationDate": "2014-12-09"
+    }, 
+    {
+      "businessId": "2658939-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2658939-4", 
+      "name": "HL-SANEERAUS OY", 
+      "registrationDate": "2014-12-08"
+    }, 
+    {
+      "businessId": "2658964-2", 
+      "companyForm": "OK", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2658964-2", 
+      "name": "Linnanrauniontien Vesiosuuskunta", 
+      "registrationDate": "2014-12-08"
+    }, 
+    {
+      "businessId": "2658681-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2658681-2", 
+      "name": "Scale Up Oy Ltd", 
+      "registrationDate": "2014-12-05"
+    }, 
+    {
+      "businessId": "2657977-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2657977-8", 
+      "name": "Proof Mestar Oy", 
+      "registrationDate": "2014-12-03"
+    }, 
+    {
+      "businessId": "2657600-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2657600-8", 
+      "name": "Langh Ship Oy Ab", 
+      "registrationDate": "2014-12-02"
+    }, 
+    {
+      "businessId": "2657007-9", 
+      "companyForm": "OK", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2657007-9", 
+      "name": "Vuolahden Vesiosuuskunta", 
+      "registrationDate": "2014-11-28"
+    }, 
+    {
+      "businessId": "2656707-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2656707-2", 
+      "name": "Nollaenergiatekniikka Oy", 
+      "registrationDate": "2014-11-27"
+    }, 
+    {
+      "businessId": "2656851-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2656851-8", 
+      "name": "HP Maksupalvelut Oy", 
+      "registrationDate": "2014-11-27"
+    }, 
+    {
+      "businessId": "2657032-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2657032-7", 
+      "name": "JPM Invest Oy", 
+      "registrationDate": "2014-11-26"
+    }, 
+    {
+      "businessId": "2654571-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2654571-1", 
+      "name": "Oliem Oy", 
+      "registrationDate": "2014-11-17"
+    }, 
+    {
+      "businessId": "2653597-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2653597-8", 
+      "name": "Kristiina M\u00e4kinen Oy", 
+      "registrationDate": "2014-11-11"
+    }, 
+    {
+      "businessId": "2653178-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2653178-2", 
+      "name": "Kiint Oy Puuhelle", 
+      "registrationDate": "2014-11-10"
+    }, 
+    {
+      "businessId": "2652605-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2652605-1", 
+      "name": "Cinemahouse Oy", 
+      "registrationDate": "2014-11-06"
+    }, 
+    {
+      "businessId": "2652874-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2652874-3", 
+      "name": "Preclinapps Oy", 
+      "registrationDate": "2014-11-06"
+    }, 
+    {
+      "businessId": "2652538-2", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2652538-2", 
+      "name": "Asunto Oy Kaarinan Suntionpuisto", 
+      "registrationDate": "2014-11-05"
+    }, 
+    {
+      "businessId": "2652575-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2652575-3", 
+      "name": "Miilo Invest Oy", 
+      "registrationDate": "2014-11-05"
+    }, 
+    {
+      "businessId": "2652525-1", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2652525-1", 
+      "name": "Asunto Oy Kaarinan Lukkarinrinne", 
+      "registrationDate": "2014-11-05"
+    }, 
+    {
+      "businessId": "2651879-9", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2651879-9", 
+      "name": "As Oy Kaarinan Rinne", 
+      "registrationDate": "2014-11-03"
+    }, 
+    {
+      "businessId": "2651889-5", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2651889-5", 
+      "name": "As Oy Kaarinan Koivu", 
+      "registrationDate": "2014-11-03"
+    }, 
+    {
+      "businessId": "2651166-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2651166-9", 
+      "name": "Asta Vuokrauspalvelu Oy", 
+      "registrationDate": "2014-10-30"
+    }, 
+    {
+      "businessId": "2649252-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2649252-5", 
+      "name": "Haahti Oy", 
+      "registrationDate": "2014-10-21"
+    }, 
+    {
+      "businessId": "2644348-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2644348-3", 
+      "name": "WER-Group Oy", 
+      "registrationDate": "2014-09-26"
+    }, 
+    {
+      "businessId": "2638157-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2638157-7", 
+      "name": "TR-Vesitykit Oy", 
+      "registrationDate": "2014-08-29"
+    }, 
+    {
+      "businessId": "2637966-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2637966-1", 
+      "name": "PG-PLAN Oy", 
+      "registrationDate": "2014-08-28"
+    }, 
+    {
+      "businessId": "2636693-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2636693-2", 
+      "name": "Addiktum Oy", 
+      "registrationDate": "2014-08-24"
+    }, 
+    {
+      "businessId": "2635635-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2635635-5", 
+      "name": "Economico Oy", 
+      "registrationDate": "2014-08-18"
+    }, 
+    {
+      "businessId": "2635395-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2635395-5", 
+      "name": "Krossin Katsastus Oy", 
+      "registrationDate": "2014-08-15"
+    }, 
+    {
+      "businessId": "2633893-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2633893-1", 
+      "name": "1208 Limor H\u00f6rkk\u00f6 Oy", 
+      "registrationDate": "2014-08-07"
+    }, 
+    {
+      "businessId": "2633452-7", 
+      "companyForm": "OK", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2633452-7", 
+      "name": "Vok Meri-Kaarina osk", 
+      "registrationDate": "2014-08-04"
+    }, 
+    {
+      "businessId": "2633232-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2633232-9", 
+      "name": "BEATA MARIA JALO OY", 
+      "registrationDate": "2014-08-01"
+    }, 
+    {
+      "businessId": "2632299-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2632299-9", 
+      "name": "Niina Fu Oy", 
+      "registrationDate": "2014-07-24"
+    }, 
+    {
+      "businessId": "2629866-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2629866-9", 
+      "name": "Kiinteist\u00f6 Oy Kaarinan Pientoimitilat 3", 
+      "registrationDate": "2014-07-03"
+    }, 
+    {
+      "businessId": "2629178-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2629178-2", 
+      "name": "ELK - Edustusliike Kissala - OY", 
+      "registrationDate": "2014-07-01"
+    }, 
+    {
+      "businessId": "2628930-8", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2628930-8", 
+      "name": "Asunto Oy Kaarinan Nunnanpelto", 
+      "registrationDate": "2014-06-27"
+    }, 
+    {
+      "businessId": "2628380-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2628380-3", 
+      "name": "LightBat Oy", 
+      "registrationDate": "2014-06-25"
+    }, 
+    {
+      "businessId": "2628346-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2628346-7", 
+      "name": "Mika Eirtovaara Productions Oy", 
+      "registrationDate": "2014-06-24"
+    }, 
+    {
+      "businessId": "2628015-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2628015-1", 
+      "name": "ANNAsport Oy", 
+      "registrationDate": "2014-06-23"
+    }, 
+    {
+      "businessId": "2627530-1", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2627530-1", 
+      "name": "Bluevitone Oy", 
+      "registrationDate": "2014-06-18"
+    }, 
+    {
+      "businessId": "2625074-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2625074-5", 
+      "name": "Petan Consulting Oy", 
+      "registrationDate": "2014-06-04"
+    }, 
+    {
+      "businessId": "2624389-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2624389-5", 
+      "name": "etM-Valmennus Oy", 
+      "registrationDate": "2014-06-01"
+    }, 
+    {
+      "businessId": "2624644-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2624644-7", 
+      "name": "DAVA Foods Finland Oy", 
+      "registrationDate": "2014-05-30"
+    }, 
+    {
+      "businessId": "2624163-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2624163-8", 
+      "name": "Mistory Oy", 
+      "registrationDate": "2014-05-30"
+    }, 
+    {
+      "businessId": "2624152-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2624152-3", 
+      "name": "Cool Professional Oy", 
+      "registrationDate": "2014-05-30"
+    }, 
+    {
+      "businessId": "2623124-5", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2623124-5", 
+      "name": "Neoption Oy", 
+      "registrationDate": "2014-05-22"
+    }, 
+    {
+      "businessId": "2622627-8", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2622627-8", 
+      "name": "Carina Value Oy", 
+      "registrationDate": "2014-05-20"
+    }, 
+    {
+      "businessId": "2621838-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2621838-2", 
+      "name": "Kaarinan Laskenta Oy", 
+      "registrationDate": "2014-05-15"
+    }, 
+    {
+      "businessId": "2620731-7", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2620731-7", 
+      "name": "Waterloo Oy", 
+      "registrationDate": "2014-05-12"
+    }, 
+    {
+      "businessId": "2619238-9", 
+      "companyForm": "AOY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2619238-9", 
+      "name": "Asunto Oy Kaarinan Metsolankatu 2", 
+      "registrationDate": "2014-04-30"
+    }, 
+    {
+      "businessId": "2618000-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2618000-3", 
+      "name": "Pilmert Metals Oy", 
+      "registrationDate": "2014-04-23"
+    }, 
+    {
+      "businessId": "2616860-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2616860-2", 
+      "name": "Adesso Nutraceuticals Oy", 
+      "registrationDate": "2014-04-14"
+    }, 
+    {
+      "businessId": "2616553-2", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2616553-2", 
+      "name": "Noccela Oy", 
+      "registrationDate": "2014-04-11"
+    }, 
+    {
+      "businessId": "2615778-6", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2615778-6", 
+      "name": "Sovinco Group Oy", 
+      "registrationDate": "2014-04-08"
+    }, 
+    {
+      "businessId": "2614306-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2614306-9", 
+      "name": "Uptime Solutions Europe Oy", 
+      "registrationDate": "2014-04-01"
+    }, 
+    {
+      "businessId": "2613111-3", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2613111-3", 
+      "name": "nollaE Oy", 
+      "registrationDate": "2014-03-25"
+    }, 
+    {
+      "businessId": "2611954-4", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2611954-4", 
+      "name": "Aaltonen Motorsport Oy", 
+      "registrationDate": "2014-03-18"
+    }, 
+    {
+      "businessId": "2608934-9", 
+      "companyForm": "OY", 
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/2608934-9", 
+      "name": "Royal Car Service Oy", 
+      "registrationDate": "2014-03-04"
+    }
+  ], 
+  "resultsFrom": 0, 
+  "totalResults": -1, 
+  "type": "fi.prh.opendata.bis", 
+  "version": "1"
+}

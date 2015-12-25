@@ -14,5 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
-
 Route::get('companies/fetch', 'CompaniesController@fetchAllCompaniesFromYtj');
+
+Route::get('companies/{companies}', 'CompaniesController@show');
+Route::get('companies', 'CompaniesController@index');
+
+

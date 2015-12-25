@@ -18,7 +18,15 @@ class CompaniesController extends Controller
      */
     public function index()
     {
-        //
+        //get all companies using Eloquent all() method
+        //$companies = Company::all();
+
+        //since dataset is so large, let's use paginate instead => 100 results / page
+        //https://laravel.com/docs/5.1/pagination
+        $companies = Company::where('id', '>', 0)->simplePaginate(100);
+
+        //return companies index view (view is in resources/views/companies/index.blade.php)
+        return view('companies.index', compact('companies'));
     }
 
     /**
@@ -28,7 +36,7 @@ class CompaniesController extends Controller
      */
     public function create()
     {
-        //
+        
     }
 
     /**
@@ -46,13 +54,12 @@ class CompaniesController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
+     * @param  Company  $company
      * @return \Illuminate\Http\Response
      */
     public function show(Company $company)
     {
         return view('companies.show', compact('company'));
-
     }
 
     /**

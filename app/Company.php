@@ -27,30 +27,39 @@ class Company extends Model
     }
 
     /*
-     * @return $data = [
+     * @param $data = [
      *    int 'business_id',
      *    string 'name'
      *    string 'companyForm',
      *    date 'registrationDate'
      * ]
+     *
+     * @return array of business ids
      */
     private static function saveData($data)
     {
         // find company by business_id
         $company = Company::where('business_id', $data->businessId)->first();
-        // if company not found -> create
-        if ( is_null($company)) {
-            $company = Company::create([
-                'business_id' => $data->businessId,
-                'name' => $data->name,
-                'company_form' => $data->companyForm,
-                'registration_date' => $data->registrationDate,
-            ]);
 
+        $company_data = [
+            'business_id' => $data->businessId,
+            'name' => $data->name,
+            'company_form' => $data->companyForm,
+            'registration_date' => $data->registrationDate,
+        ];
+
+        if ( is_null($company)) { // if company not found -> create
+
+            $company = Company::create($company_data);
             $addedCompanies[] = $company->businessId;
 
+        } else { // if compnay exists -> update
+
+            $company->update($company_data);
         }
+
         return $addedCompanies;
+
     }
 
     protected $fillable = [
@@ -77,25 +86,47 @@ class Company extends Model
 
     /*
      * This function is used to get daily updates from the PRH api
-     * @return ids of added companies
+     * @return business ids of added companies
      */
     public static function updateNewDaily()
     {
         $date = new DateTime();
+
         $date->add(DateInterval::createFromDateString('yesterday'));
+
         $url = self::$URL . '&companyRegistrationFrom=' . $date->format('Y-m-d');
+
         $data = $self::fetchData($url);
-        $ids = self::saveData($data);
+
+        foreach($data as $single){
+            $ids[] .= self::saveData($single);
+        }
+
         return $ids;
     }
 
+    /*
+     * Update companies that already exist
+     */
     public static function updateExistingDaily()
     {
       $date = new DateTime();
-      $date->add(DateInterval::createFromDateString('yesterday'));
-      $url = self::$URL . '&companyChangedSince=' . $date->format('Y-m-d');
+
+      //The data in PRH api lags one day so get info for yesterday
+      $date->add(DateInterval::createFromDateString('yesterday'))->format('Y-m-d');
+
+      //Construct the url from the base url and add a changed since
+      $url = self::$URL . '&companyChangedSince=' . $date;
+
       $data = $self::fetchData($url);
-      $ids = self::saveData($data);
+
+      //Check whether a company can be found and save that company
+      foreach($data as $single){
+          if(Company::where('business_id', $data->businessId)->first()){
+              $ids[] .= self::saveData($single);
+          }
+      }
+
       return $ids;
     }
 
@@ -104,11 +135,18 @@ class Company extends Model
      */
     public static function fetchAllDataFromPrh($start = 0, $end = 350000)
     {
+
         $url = self::$URL . $i . '&companyRegistrationFrom=1800-01-01';
+
         for ($i = $start; $i < $end ; $i = $i + 1000) {
             $data = self::fetchData($url);
-            $ids[] .= self::saveData($data);
+
+            foreach($data as $single){
+                $ids[] .= self::saveData($data);
+            }
         }
+
         return $ids;
     }
+
 }

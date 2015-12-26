@@ -8,7 +8,11 @@ class Company extends Model
 {
     private static $URL = 'http://avoindata.prh.fi:80/tr/v1?totalResults=true&maxResults=1000&resultsFrom=';
 
-    private static fetchData($URL)
+    /*
+     * Get data from url and return an array
+     * @return array
+     */
+    private static function fetchData($URL)
     {
         $url = $URL;
         $agent= 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)';
@@ -23,14 +27,14 @@ class Company extends Model
     }
 
     /*
-     * $data = [
+     * @return $data = [
      *    int 'business_id',
      *    string 'name'
      *    string 'companyForm',
      *    date 'registrationDate'
      * ]
      */
-    private static saveData($data)
+    private static function saveData($data)
     {
         // find company by business_id
         $company = Company::where('business_id', $data->businessId)->first();
@@ -46,6 +50,7 @@ class Company extends Model
             $addedCompanies[] = $company->businessId;
 
         }
+        return $addedCompanies;
     }
 
     protected $fillable = [
@@ -72,13 +77,26 @@ class Company extends Model
 
     /*
      * This function is used to get daily updates from the PRH api
+     * @return ids of added companies
      */
-    public static function updateDaily()
+    public static function updateNewDaily()
     {
-        $url = self::$URL . 'companyRegistrationFrom=2015-11-16&companyChangedSince=2015-11-16';
+        $date = new DateTime();
+        $date->add(DateInterval::createFromDateString('yesterday'));
+        $url = self::$URL . '&companyRegistrationFrom=' . $date->format('Y-m-d');
         $data = $self::fetchData($url);
-        self::saveData($data);
-        return $data;
+        $ids = self::saveData($data);
+        return $ids;
+    }
+
+    public static function updateExistingDaily()
+    {
+      $date = new DateTime();
+      $date->add(DateInterval::createFromDateString('yesterday'));
+      $url = self::$URL . '&companyChangedSince=' . $date->format('Y-m-d');
+      $data = $self::fetchData($url);
+      $ids = self::saveData($data);
+      return $ids;
     }
 
     /*
@@ -89,9 +107,8 @@ class Company extends Model
         $url = self::$URL . $i . '&companyRegistrationFrom=1800-01-01';
         for ($i = $start; $i < $end ; $i = $i + 1000) {
             $data = self::fetchData($url);
-            self::saveData($data);
-            $whole_data[] .= $data;
+            $ids[] .= self::saveData($data);
         }
-        return $whole_data;
+        return $ids;
     }
 }
